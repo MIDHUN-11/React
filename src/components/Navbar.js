@@ -8,7 +8,7 @@ const Navbar =()=>{
     <li class="nav-item">
         <Link to={'/'} >Homepage</Link>
        {/* <Button onClick={()=>{navigate('/')}}>Homepage</Button> */}
-      <a class="nav-link active" aria-current="page" >Homepage</a>
+      {/* <a class="nav-link active" aria-current="page" >Homepage</a> */}
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#">Link</a>
